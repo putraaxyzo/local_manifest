@@ -9,9 +9,8 @@
  <project path="device/xiaomi/juice" name="test_tree" remote="putraaxyzo" revision="12.1-prebuilt" clone-depth="1" />
  <project path="vendor/xiaomi/juice" name="vendor_xiaomi_juice" remote="kalkioss" revision="snow" clone-depth="1" />
  <project path="kernel/xiaomi/juice" name="guuji_kernel_juice" remote="putraaxyzo" revision="twelve" clone-depth="1" />
- <project path="packages/resources/devicesettings" name"=android_packages_resources_devicesettings" remote="putraaxyzo" reversion="lineage-19.1" clone-depth="1" />
  
-<!-- Clang -->
+<!-- toolchain-clang -->
   <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="putraaxyzo" revision="master" clone-depth="1" />
 
 </manifest>
